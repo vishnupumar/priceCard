@@ -1,0 +1,18 @@
+.main{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+     padding: 10px;
+}
+img{
+    width: 250px;
+}
+.bottomdiv{
+    margin: 0;
+    padding: 0;
+}
+.price{
+    color: rgb(77, 81, 85);
+    position: relative;
+    bottom: 10px;
+}
